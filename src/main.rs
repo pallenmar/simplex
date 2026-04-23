@@ -1,4 +1,4 @@
-// use faer::{Mat, Scale, mat}; -- really good 
+// use faer::{Mat, Scale, mat}; -- really good pre-built package
 
 fn main() {
 
