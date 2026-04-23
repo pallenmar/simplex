@@ -1,5 +1,6 @@
-fn main() {
+// use faer::{Mat, Scale, mat}; -- really good 
 
+fn main() {
 
 	let a = vec![1.0,2.0,3.0,4.0,5.0];
 	let b = vec![1.0,2.0,3.0,4.0,5.0];
@@ -81,3 +82,4 @@ mod tests {
 	}
 
 }
+
